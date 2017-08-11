@@ -1,0 +1,30 @@
+[
+ {
+    "Name"   :"Sonali",
+     "Pin"      :"1210715104",
+     "Branch":"IT",
+     "Batch"   :"2015-19"
+  },
+
+ {
+     "Name"  :"Tulika Deonath",
+     "Pin"      :"1210716246",
+     "Branch":"IT",
+     "Batch"  :"2016-20"
+  },
+ 
+  {
+     "Name"  :"Rakesh",
+     "Pin"      :"1210716223",
+     "Branch":"IT",
+     "Batch"  :"2016-20"
+   },
+   
+   {
+      
+     "Name"  :"Mustali",
+     "Pin"      :"1210716125",
+     "Branch":"IT",
+     "Batch"  :"2016-20"
+    }
+]
